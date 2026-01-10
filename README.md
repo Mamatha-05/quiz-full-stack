@@ -1,4 +1,4 @@
-🧠##**Quiz Full-Stack Application**
+🧠**Quiz Full-Stack Application**
 
 📌 **Project Overview**
 
@@ -206,3 +206,4 @@ Easy to extend and scale
 👩‍💻 **Author**
 
 Mamatha Nalagoppula
+

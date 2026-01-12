@@ -57,7 +57,7 @@ HTML
 
 CSS
 
-Bootstrap (optional)
+Bootstrap
 
 🔹 **Backend Technologies**
 
@@ -193,4 +193,5 @@ Easy to extend and scale
 👩‍💻 **Author**
 
 Mamatha Nalagoppula
+
 

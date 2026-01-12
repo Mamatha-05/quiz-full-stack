@@ -176,19 +176,6 @@ http://localhost:4200
 
 🔗 **Frontend–Backend Connection**
 
-Quiz API:
-
-http://127.0.0.1:8000/quiz
-
-
-Submit score API:
-
-http://127.0.0.1:8000/submit_score
-
-
-Leaderboard API:
-
-http://127.0.0.1:8000/leaderboard
 
 
 ✨ **Features**
